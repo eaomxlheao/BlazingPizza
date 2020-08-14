@@ -1,0 +1,4 @@
+﻿Desde la Consola de Administracion de paquetes con el proyecto Server seleccionado
+
+* Add-Migration InitialCreate   //Crea el codigo en base al dbcontext
+* Update-Database //Ejecuta el codigo que se genero en la migracion
